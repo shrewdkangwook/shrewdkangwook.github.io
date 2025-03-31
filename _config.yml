@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "쉬루드강욱 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "쉬루드강욱"
 description              : "An amazing website."
 url                      : "https://shrewdkangwook.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -252,8 +252,8 @@ pagination:
   tag: ''
   locale: ''
   trail:
-    before: 2
-    after: 2
+    before: 3
+    after: 3
 
 
 # Plugins (previously gems:)
